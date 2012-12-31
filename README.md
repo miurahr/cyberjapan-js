@@ -9,5 +9,8 @@ need to install this js file into library directory.
 INSTALL
 -------
 
-Please place cyberjapan.js file on <drupal-root>/sites/all/libraries/js/
+Please place cyberjapan.js file on <drupal-root>/sites/all/modules/cyberjapan/js/
+ or modules/cyberjapan/js/
 
+You can get recent zip archive from 
+<a href="https://github.com/miurahr/cyberjapan-js/archive/master.zip">cyberjapan-js.zip file </a>
